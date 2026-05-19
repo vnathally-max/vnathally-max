@@ -25,3 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=atal_da_nathy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atal_da_nathy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas" />
 </div>
+<img src="URL_IMAGEM" width="450" alt="GIF" style="border-radius: 0px;"/>
